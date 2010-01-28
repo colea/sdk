@@ -98,7 +98,7 @@ public final class NormalizedViewport extends EventDispatcher
     //
     //--------------------------------------------------------------------------
 
-    private static const NULL_TRANSFORMER:IViewportTransformer = new NullTransformer()
+    private const NULL_TRANSFORMER:IViewportTransformer = new NullTransformer()
 
     //--------------------------------------------------------------------------
     //
